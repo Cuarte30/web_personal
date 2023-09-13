@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-size: 25px;
+}
+
+p{
+    color: black;
+    font-size: 14px;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
